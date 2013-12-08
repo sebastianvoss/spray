@@ -1,0 +1,15 @@
+{
+  "uid": "2a000e7a-397a-4056-9850-254256b843c6",
+  "product": "Spread",
+  "price": 0.2,
+  "quantity": 50,
+  "legs": [{
+    "product": "Underlying 1",
+    "price": 25.2,
+    "quantity": 50
+  }, {
+    "product": "Underlying 2",
+    "price": 25.0,
+    "quantity": 50
+  }]
+}
